@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kajal Roul
 
-🎓 B.Tech 1st Year CSE Student  
+🎓 B.Tech 2st Year CSE Student  
 🏫 Gandhi Institute For Education & Technology  
 🤖 Aspiring AI Engineer  
 🌱 Currently learning Python, Git, and AI Technologies
